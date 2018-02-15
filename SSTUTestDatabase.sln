@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "SSTUTestDatabase", "SSTUTestDatabase\SSTUTestDatabase.sqlproj", "{43E32CF3-5824-417F-ADD3-E5F2C9DA885B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sstuWFapp", "..\sstuWFapp\sstuWFapp\sstuWFapp.csproj", "{7461DDAE-F3F3-4C73-A4AA-8555DDE0C929}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43E32CF3-5824-417F-ADD3-E5F2C9DA885B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43E32CF3-5824-417F-ADD3-E5F2C9DA885B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43E32CF3-5824-417F-ADD3-E5F2C9DA885B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{43E32CF3-5824-417F-ADD3-E5F2C9DA885B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43E32CF3-5824-417F-ADD3-E5F2C9DA885B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{43E32CF3-5824-417F-ADD3-E5F2C9DA885B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{7461DDAE-F3F3-4C73-A4AA-8555DDE0C929}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7461DDAE-F3F3-4C73-A4AA-8555DDE0C929}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7461DDAE-F3F3-4C73-A4AA-8555DDE0C929}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7461DDAE-F3F3-4C73-A4AA-8555DDE0C929}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DC1E1F3-37AB-4C2C-8D86-FAB49498A57B}
+	EndGlobalSection
+EndGlobal
